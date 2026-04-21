@@ -18,9 +18,9 @@ The project explores team performance, driver standings, podium trends, race win
 - Lewis Hamilton led the season in race victories with 9 wins.
 - Podium finishes were highly competitive with Lewis Hamilton, Sebastian Vettel, and Valtteri Bottas tied on 13 podiums       each.
 - Average finishing positons highlighted the operational strength of top constructors.
+- Racecraft metrics showed which drivers consistently outperformed their starting grid positions
 
 **TOOLS USED**
 - Power BI
 - Power Query
 - DAX
-- Racecraft metrics showed with drivers consistently outperformed thier starting grid positions.
